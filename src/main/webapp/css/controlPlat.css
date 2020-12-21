@@ -1,0 +1,12 @@
+input{
+    border-width: 0px;
+    font-size: larger;
+
+}
+input:focus{outline: none}
+button{
+    border-width: 0px;
+    cursor: pointer;
+    width: 100px;
+    font-size: larger;
+}
