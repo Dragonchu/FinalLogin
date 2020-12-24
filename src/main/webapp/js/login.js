@@ -3,7 +3,8 @@ function login(){
     let password = document.getElementById("inputPassword").value;
     let user={
         "username":username,
-        "password":password
+        "password":password,
+        "tel":"nothing"
     };
 
    let x=new XMLHttpRequest();

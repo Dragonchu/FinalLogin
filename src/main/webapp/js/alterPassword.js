@@ -3,7 +3,8 @@ function checkUsername() {
     let password = "nothing";
     let user={
         "username":username,
-        "password":password
+        "password":password,
+        "tel":"nothing"
     };
 
     let x=new XMLHttpRequest();
@@ -29,7 +30,8 @@ function checkPhone(){
     let password = document.getElementById("tel").value;
     let user={
         "username":username,
-        "password":password
+        "password":password,
+        "tel":"nothing"
     };
 
     let x=new XMLHttpRequest();
