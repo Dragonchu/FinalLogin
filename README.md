@@ -1,5 +1,5 @@
 # 网页登录
-WebLoginDemo
+模仿中南大学登陆界面
 # 环境
 Tomcat 8.5.60  
 Mysql  
